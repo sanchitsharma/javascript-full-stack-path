@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- JS Library vs Framework
+- JS Library vs Framework - [https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/]
 - Client side frameworks - [https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 - Webpack - [https://ui.dev/webpack/](https://ui.dev/webpack/)
 - Polyfills - [https://ui.dev/compiling-polyfills/](https://ui.dev/compiling-polyfills/)
