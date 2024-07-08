@@ -15,6 +15,5 @@ Sequence of topics (tentative):
 - HTML and CSS
 - JavaScript DOM
 - React
-- Redux
 - Searching
 
